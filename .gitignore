@@ -39,10 +39,15 @@ ehthumbs.db
 # ============ #
 Assets/AI.meta
 Assets/AI/
+Assets/GooglePlayGames/
+Assets/PlayServicesResolver/
+Assets/Plugins/
 Assets/RAIN.meta
 Assets/RAIN
-Assets/Zenject
+Assets/Zenject/
 Assets/UnityTestTools
 Assets/DebugDrawingExtension
 *.dat
 ProjectSettings/ProjectVersion.txt
+*.apk
+
